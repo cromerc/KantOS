@@ -5,3 +5,9 @@ KantOS theme for SpruceOS, based on the work of the KantOS theme for OnionOS by 
 # Installation
 
 Extract the contents of the zip file into the Themes directory on your sd card that has SpruceOS installed on it.
+
+# Screenshot
+
+# Screenshots
+
+![preview](preview.gif)
