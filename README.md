@@ -8,6 +8,4 @@ Extract the contents of the zip file into the Themes directory on your sd card t
 
 # Screenshot
 
-# Screenshots
-
-![preview](preview.gif)
+![previews](preview.gif)
